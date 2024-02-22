@@ -2,3 +2,4 @@
 -Estado del proyecto: En construcción
 <p>Requisitos del sistema: core i3 a mas
 </p>
+REGISTRO PARA REPOSITORIO
